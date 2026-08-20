@@ -1,14 +1,10 @@
 # The Mutated Physics Protocol: Testing Systematic Generalization in Frontier LLMs
 
-[![MIT License](https://shields.io)](https://choosealicense.com)
-[![AI-Benchmark](https://shields.io)](https://github.com)
-[![X-Profile](https://shields.io)](https://x.com)
-
 An advanced prompt-engineering framework and benchmarking methodology designed to evaluate whether modern Large Language Models (LLMs) possess true **systematic symbolic reasoning** or if they are merely relying on **stochastic memorization (data contamination)**. 
 
 Inspired by Google DeepMind's seminal paper *"LLMs Can't Jump"* and the *"Machina Mirabilis"* experiment, this protocol bypasses an AI's training data wheels by trapping the model inside a mathematically stable but physically non-existent synthetic universe: a **5-dimensional spacetime governed by quadratic R² gravity and non-commutative Moyal-Weyl geometry**.
 
-**Author:** Caetano Spuldaro Neto ([@caetano_neto](https://x.com))
+**Author:** Caetano Spuldaro Neto ([@caetano_neto](https://x.com/caetano_neto))
 
 ---
 
@@ -79,4 +75,4 @@ Spuldaro Neto, C. (2026). The Mutated Physics Protocol: Testing Systematic Gener
 ```
 
 ## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
